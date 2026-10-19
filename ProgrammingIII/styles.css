@@ -1,0 +1,47 @@
+/* Sumativa 1, Victoria Pinto, 31817300, Programación III */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    background-color: #13060c;
+    text-align: center;
+    padding: 40px;
+    font-size: x-large;
+    justify-content: center;
+    background-image: url("backgroundimage.jpg");
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-position: center; /* Mantiene la imagen centrada */
+    background-attachment: fixed; 
+}
+
+h1 {
+  margin-top: 16px;
+  color: white;
+}
+
+h2 {
+  margin-top: 10px;
+  color: white;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 20px 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: #2e104c;
+    padding: 24px 50px;
+    border-radius: 16px;
+    font-size: 24px;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: #5d2d88;
+}
